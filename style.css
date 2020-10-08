@@ -122,3 +122,10 @@ p {
     border: 1px solid red;
     color: red;
 }
+
+#creator {
+    text-align:right;
+    font-family:"Dancing script", cursive;
+    margin-right:10px;
+    
+}
